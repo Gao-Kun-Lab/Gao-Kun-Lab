@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=%22Welcome%2C%20toourab!%22;欢迎加入我们的实验室!&center=true&size=27"> </a> </h1>
+
 
 <h1 align="center">
   <a href="https://sunguoqi.com/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=欢迎加入我们的实验室;Welcome+to+our+lab!&center=true&size=27">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+our+lab!;欢迎来到我们的实验室！&center=true&size=27">
   </a>
 </h1>
 

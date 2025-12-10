@@ -1,5 +1,15 @@
+Gao-Kun-Lab
+===
+# 教育经历工作经历
+
+* 1991.9-1995.7，浙江大学，工业电气自动化，工学学士
+* 1995.9-2002.3，浙江大学，测试计量技术及仪器，工学博士
+* 2002.5-2005.1，清华大学，精密仪器与机械学系，博士后
+* 2005.1-2005.6，北京理工大学信息学院，讲师
+* 2005.7-2021.6，北京理工大学光电学院，副教授
+* 2021.7-今，北京理工大学光电学院，教授
+
 ## Hi there 👋
-<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=Gao-Kun-Lab" /> </div>
 
 <!--
 **Gao-Kun-Lab/Gao-Kun-Lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

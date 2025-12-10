@@ -3,7 +3,6 @@ Gao-Kun-Lab
 ![图片1](https://github.com/user-attachments/assets/d5c2770c-d46f-4b71-a0b7-56bc92bac44e)
 
 # 教师信息
-![Uploading 屏幕截图 2025-12-11 005309.png…]()
 
 ## 教育经历工作经历
 * 1991.9-1995.7，浙江大学，工业电气自动化，工学学士
@@ -62,6 +61,9 @@ Gao-Kun-Lab
 * 高精度离轴非球面先进制造技术，北京市科学技术二等奖，2013（6/8）
 * 大口径光学非球面制造检测全链路协同关键技术及应用，2020-J01-2-04，北京市科学技术进步奖二等奖，2020（8/10）
 
+## 学术兼职
+IEEE、 SPIE、中国光学学会、中国图象图形学学会、中国神经科学学会会员
+
 <!--
 ## Hi there 👋
 **Gao-Kun-Lab/Gao-Kun-Lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -77,9 +79,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-
 
 <h1 align="center">
   <a href="https://sunguoqi.com/">

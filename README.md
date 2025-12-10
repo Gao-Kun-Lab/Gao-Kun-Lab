@@ -1,6 +1,7 @@
 Gao-Kun-Lab
 ===
 # 教育经历工作经历
+![e207ccfe493dd7683af4dc33fe985fc](https://github.com/user-attachments/assets/b12be41e-3b5d-4acc-828f-3b899a33bde9)
 
 * 1991.9-1995.7，浙江大学，工业电气自动化，工学学士
 * 1995.9-2002.3，浙江大学，测试计量技术及仪器，工学博士

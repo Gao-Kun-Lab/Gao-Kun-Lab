@@ -1,9 +1,10 @@
-<img width="393" height="294" alt="图片" src="https://github.com/user-attachments/assets/36a849fa-a415-491d-8532-d913e101ae45" />Gao-Kun-Lab
+Gao-Kun-Lab
 ===
-
 ![图片1](https://github.com/user-attachments/assets/d5c2770c-d46f-4b71-a0b7-56bc92bac44e)
 
 # 教师信息
+![Uploading 屏幕截图 2025-12-11 005309.png…]()
+
 ## 教育经历工作经历
 * 1991.9-1995.7，浙江大学，工业电气自动化，工学学士
 * 1995.9-2002.3，浙江大学，测试计量技术及仪器，工学博士

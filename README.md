@@ -1,6 +1,6 @@
 Gao-Kun-Lab
 ===
-![图片1](https://github.com/user-attachments/assets/d5c2770c-d46f-4b71-a0b7-56bc92bac44e)
+<img width="1905" height="1085" alt="图片" src="https://github.com/user-attachments/assets/fc0e4d82-18a8-4ebb-815a-1a8f3dd92a20" />
 
 # 教师信息
 
@@ -32,15 +32,16 @@ Gao-Kun-Lab
 * 高昆，豆泽阳. 高分辨光学遥感影像复原与目标检测技术. 长春:吉林大学出版社，2020
 
 ## 代表性学术论文
-* Hong Wang, Kun Gao*, Zibo Hu, et al. Topology-aware dynamic high-order graph learning for hyperspectral image classification. ESWA, 299,130135, 2026.
-* Zhijia Yang, Kun Gao*, Yuxuan Mao, et al. DSFuse: A Dual-diffusionStructure for Feature Fidelity Infrared and Visible Image Fusion. IEEE
-* Zibo Hu, Kun Gao*, Xiaodian Zhang, et al. DINO: Efficient Cross-ModalityFusion and Efficient Label Assignment for Visual Grounding in RemoteSensing, IEEE TGRS, 2025, 63, 5609414:1-14.
-* Yutong Liu, Kun Gao∗, Hong Wang, et al. A Transformer-based multi-modal fusion network for semantic segmentation of high-resolutionremote sensing imagery. JAG, 2024,133,104083: 1-12.
-* Zizheng Hua, Ying Ke, Su Chen, Shua Wang, Gaofeng Pan, Kun Gao*.Computer Vision Target Detection-Aided High-frequency Satellite-GroundCommunications. IEEE IoTJ, 2024, 11(18): 29321-29334.
-* Junwei Wang, Xiuqing Hu*, Kun Gao*, et al. A novel inter-calibrationmethod for Fengyun(FY)-3 VIRR using MERSI onboard the same satellitebased on pseudo-invariant pixels. IEEE TGRS, 2024, 62, 5614017.
-* Zibo Hu, Kun Gao*, Xiaodian Zhang, et al. EMO2-DETR: Efficient-MatchingOriented Object Detection with Transformers. IEEE TGRS, 2023，61,5616814: 1-17.· Zizheng Hua, Yang Lu, Gaofeng Pan, Kun Gao*, et al. Computer VisionAided mmWave UAV Communication Systems, IEEE IoTJ, 2023, 10(14):12548-12561.
-* Zeyang Dou, Kun Gao*, Xiaodian Zhang, et al. Improving Performance andAdaptivity of Anchor-based Detector Using Differentiable Anchoring withEfficient Target Generation. IEEE TIP, 2021, 30: 712-724.
-* Zeyang Dou, Kun Gao*, Xiaodian Zhang, et al. Hyperspectral UnmixingUsing Orthogonal Sparse Prior-Based Autoencoder With Hyper-LaplacianLoss and Data-Driven Outlier Detection. IEEE TGRS, 2020, 58(9): 6550-6564.
+* Hong Wang, **Kun Gao***, Zibo Hu, et al. Topology-aware dynamic high-order graph learning for hyperspectral image classification. ESWA, 299,130135, 2026.
+* Zhijia Yang, **Kun Gao***, Yuxuan Mao, et al. DSFuse: A Dual-diffusionStructure for Feature Fidelity Infrared and Visible Image Fusion. IEEE TNNLS, 2025, 36(10): 18572-18586.
+* Zibo Hu, **Kun Gao***, Xiaodian Zhang, et al. DINO: Efficient Cross-ModalityFusion and Efficient Label Assignment for Visual Grounding in RemoteSensing, IEEE TGRS, 2025, 63, 5609414:1-14.
+* Yutong Liu, **Kun Gao**∗, Hong Wang, et al. A Transformer-based multi-modal fusion network for semantic segmentation of high-resolutionremote sensing imagery. JAG, 2024,133,104083: 1-12.
+* Zizheng Hua, Ying Ke, Su Chen, Shua Wang, Gaofeng Pan, **Kun Gao***.Computer Vision Target Detection-Aided High-frequency Satellite-GroundCommunications. IEEE IoTJ, 2024, 11(18): 29321-29334.
+* Junwei Wang, Xiuqing Hu*, **Kun Gao***, et al. A novel inter-calibrationmethod for Fengyun(FY)-3 VIRR using MERSI onboard the same satellitebased on pseudo-invariant pixels. IEEE TGRS, 2024, 62, 5614017.
+* Zibo Hu, **Kun Gao***, Xiaodian Zhang, et al. EMO2-DETR: Efficient-MatchingOriented Object Detection with Transformers. IEEE TGRS, 2023，61,5616814: 1-17.
+* Zizheng Hua, Yang Lu, Gaofeng Pan, **Kun Gao***, et al. Computer VisionAided mmWave UAV Communication Systems, IEEE IoTJ, 2023, 10(14):12548-12561.
+* Zeyang Dou, **Kun Gao***, Xiaodian Zhang, et al. Improving Performance andAdaptivity of Anchor-based Detector Using Differentiable Anchoring withEfficient Target Generation. IEEE TIP, 2021, 30: 712-724.
+* Zeyang Dou, **Kun Gao***, Xiaodian Zhang, et al. Hyperspectral UnmixingUsing Orthogonal Sparse Prior-Based Autoencoder With Hyper-LaplacianLoss and Data-Driven Outlier Detection. IEEE TGRS, 2020, 58(9): 6550-6564.
 
 ## 授权发明专利
 * 高昆，蔡瑜坤，王鹏宇，等. 一种基于波段选择的高光谱人脸欺骗检测方法.ZL202411903843.2.

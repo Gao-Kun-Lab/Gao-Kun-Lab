@@ -20,10 +20,12 @@ Gao-Kun-Lab
 
 ## 近5年承担的部分纵向科研项目
 * 国家自然科学基金面上项目，基于多源信息融合的PM2.5星载红外高光谱昼夜高精度智能反演方法的研究，2026-2029，49万，主持
-* x66项目，XXX类脑算法优化研究，2023-2024，184万元，主持· 民用航空高分专项，多模红外传感器数据融合与处理技术研究，2021-2022，175万元，主持
+* x66项目，XXX类脑算法优化研究，2023-2024，184万元，主持
+* 民用航空高分专项，多模红外传感器数据融合与处理技术研究，2021-2022，175万元，主持
 * HT预研转化，小样本条件下宽幅卫星图像XXXX智能快速筛选，2021-2022，100万元，主持
 * GF创新特区，BY相机XXX反演技术，2021-2022，75万元，主持
-* 北京市自然科学基金重点项目，骨髓造血细胞在白血病发生中的生物活体原位超分辨基础与应用研究，2019-2023，149万元，课题负责人· 国家自然科学基金面上项目，星载高光谱仪非理想运动退化下亚像元定位技术研究，2019-2022，55万元，主持
+* 北京市自然科学基金重点项目，骨髓造血细胞在白血病发生中的生物活体原位超分辨基础与应用研究，2019-2023，149万元，课题负责人
+* 国家自然科学基金面上项目，星载高光谱仪非理想运动退化下亚像元定位技术研究，2019-2022，55万元，主持
 * 国家自然科学基金叶企孙联合基金，新型超分辨多光谱计算成像机理与快速智能探测技术研究，2023-2026，259万元，参与
 * 科技部重大专项，高仿真XXX制作，2022-2025，451万元，参与
 * x73领域基金，XXXX探测技术，2022-2025，143万元，参与
@@ -34,10 +36,11 @@ Gao-Kun-Lab
 ## 代表性学术论文
 * Hong Wang, **Kun Gao***, Zibo Hu, et al. Topology-aware dynamic high-order graph learning for hyperspectral image classification. ESWA, 299,130135, 2026.
 * Zhijia Yang, **Kun Gao***, Yuxuan Mao, et al. DSFuse: A Dual-diffusionStructure for Feature Fidelity Infrared and Visible Image Fusion. IEEE TNNLS, 2025, 36(10): 18572-18586.
-* Zibo Hu, **Kun Gao***, Xiaodian Zhang, et al. DINO: Efficient Cross-ModalityFusion and Efficient Label Assignment for Visual Grounding in RemoteSensing, IEEE TGRS, 2025, 63, 5609414:1-14.
+* Zibo Hu, **Kun Gao***, Xiaodian Zhang, et al. Efficient Grounding DINO: Efficient Cross-ModalityFusion and Efficient Label Assignment for Visual Grounding in RemoteSensing, IEEE TGRS, 2025, 63, 5609414:1-14.
 * Yutong Liu, **Kun Gao**∗, Hong Wang, et al. A Transformer-based multi-modal fusion network for semantic segmentation of high-resolutionremote sensing imagery. JAG, 2024,133,104083: 1-12.
 * Zizheng Hua, Ying Ke, Su Chen, Shua Wang, Gaofeng Pan, **Kun Gao***.Computer Vision Target Detection-Aided High-frequency Satellite-GroundCommunications. IEEE IoTJ, 2024, 11(18): 29321-29334.
 * Junwei Wang, Xiuqing Hu*, **Kun Gao***, et al. A novel inter-calibrationmethod for Fengyun(FY)-3 VIRR using MERSI onboard the same satellitebased on pseudo-invariant pixels. IEEE TGRS, 2024, 62, 5614017.
+* Xiaodian Zhang, **Kun Gao***, Junwei Wang, et al. Self-supervised learning with deep clustering for target detection in hyperspectral images with insufficient spectral variation prior. JAG, 2023,122, 103405:1569-8432.
 * Zibo Hu, **Kun Gao***, Xiaodian Zhang, et al. EMO2-DETR: Efficient-MatchingOriented Object Detection with Transformers. IEEE TGRS, 2023，61,5616814: 1-17.
 * Zizheng Hua, Yang Lu, Gaofeng Pan, **Kun Gao***, et al. Computer VisionAided mmWave UAV Communication Systems, IEEE IoTJ, 2023, 10(14):12548-12561.
 * Zeyang Dou, **Kun Gao***, Xiaodian Zhang, et al. Improving Performance andAdaptivity of Anchor-based Detector Using Differentiable Anchoring withEfficient Target Generation. IEEE TIP, 2021, 30: 712-724.

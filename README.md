@@ -1,6 +1,7 @@
 Gao-Kun-Lab
 ===
-<img width="1905" height="1085" alt="图片" src="https://github.com/user-attachments/assets/fc0e4d82-18a8-4ebb-815a-1a8f3dd92a20" />
+
+![PAGE](https://github.com/user-attachments/assets/83776fef-9103-437e-be58-0792f8941d7e)
 
 # 教师信息
 
